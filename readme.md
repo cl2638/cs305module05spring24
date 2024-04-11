@@ -5,4 +5,4 @@ This project is about creating a repository in GitHub and having collaborators e
 ## Getting Started
 I got started with this project by creating a repository and sharing it with jduerbig.
 
-Here is a simple footnote[^1].
+[^1]footnote
