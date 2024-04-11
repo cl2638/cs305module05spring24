@@ -1,6 +1,8 @@
 # FakeProject
 This project is about creating a repository in GitHub and having collaborators edit and make changes which we then reflect on and gather evidence of. If I were creating a real project I would include information about: 
-
+1. What the point of the project is. What is it trying to achieve?
+2. What aspects of online use would this project fulfill?
+⋅⋅* What Use Cases does this project aim to help/manage?
 
 ## Getting Started
 I got started with this project by creating a repository and sharing it with jduerbig.
@@ -18,7 +20,7 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of MultiPainter.
+copies or substantial portions of the webpage.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
