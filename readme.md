@@ -7,7 +7,7 @@ This project is about creating a repository in GitHub and having collaborators e
 ## Getting Started
 I got started with this project by creating a repository and sharing it with jduerbig.
 
-##I AM ADDINNG AN INSANE NEW MODULE TO THIS PROJECT THAT WILL ROCK THE WORLD!!! (@JDUERBIG)
+## I AM ADDINNG AN INSANE NEW MODULE TO THIS PROJECT THAT WILL ROCK THE WORLD!!! (@JDUERBIG)
 
 ### Liscensing
 MIT License
